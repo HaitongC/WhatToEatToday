@@ -17,3 +17,7 @@ not hosted yet
 ## Limitation
 So far, it only has recipes of egg and chicken from America, China, Spain, and Japan
 More information will be added once I learn web crawling.
+## TODO
+Learn web crawling, and fetch recipes from web, instead of manually typing in.
+Therefore, the recipes can have more varieties.
+Maybe host it on a platform.
