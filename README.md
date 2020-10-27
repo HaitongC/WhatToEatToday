@@ -12,8 +12,8 @@ know better that I am more confident of using it...
 General libraries are downloaded from web.
 JDA Downloaded from [Link](https://ci.dv8tion.net/job/JDA/)
 Followed much steps from [Link](https://www.youtube.com/watch?v=jGrD8AZfTig&t=130s)
-# Launch
+## Launch
 not hosted yet
-# Limitation
+## Limitation
 So far, it only has recipes of egg and chicken from America, China, Spain, and Japan
 More information will be added once I learn web crawling.
