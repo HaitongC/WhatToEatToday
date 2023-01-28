@@ -15,9 +15,7 @@ Followed much steps from [Link](https://www.youtube.com/watch?v=jGrD8AZfTig&t=13
 ## Launch
 not hosted yet
 ## Limitation
-So far, it only has recipes of egg and chicken from America, China, Spain, and Japan
-More information will be added once I learn web crawling.
+Limited medu items.
 ## TODO
-Learn web crawling, and fetch recipes from web, instead of manually typing in.
-Therefore, the recipes can have more varieties.
+Fetch recipes from web, instead of manually typing in.
 Maybe host it on a platform.
